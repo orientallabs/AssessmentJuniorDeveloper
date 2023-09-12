@@ -11,7 +11,7 @@ The UI consists of a dropdown menu as well as a static side bar with individual 
 
 ## Key Points for evaluation- 
 1.	The UI does not require any specific technology to be used, the developer is given freedom to use any technology/libraries/frameworks with which he/she is comfortable. Even implementation with plain HTML, CSS, JS will be accepted.  
-2.  There is no compulsion to use everything provided in the assets folder, Images/Text/Icons given in the UI can be changed with anything which is accessible to the developer. The Color Scheme however should be maintained. 
+2.  There is no compulsion to use everything provided in the assets ZIP, Images/Text/Icons given in the UI can be changed with anything which is accessible to the developer. The Color Scheme however should be maintained. 
 3.	The submitted UI needs to be complete in every sense, incomplete UI will not be accepted. Only "dev" versions will be accepted, "build" submisisons will be automatically rejected. A readme file with build instructions will be helpful.
 4.	The given UI is given in screen snapshot and does not represent any motion or animation. This is up to the developer to improvise on and use his/her creativity for animations.
 5.	 Since “responsive design” is one of the key skills required for this role. The developer is expected to implement and think of a suitable mobile version for the same page. The UI for mobile screens may be completely built from scratch, keeping the intended functionality intact. This sub-part of the task is to give us a taste of “design sense” of the developer.
