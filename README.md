@@ -7,7 +7,6 @@ Labkafe’s web development team has been working on a new "Career Page". The le
 
 The backend team has been working on the ContactUs API which helps the end user to fill forms throughout the website and collect form data as efficiently as possible. You have been given the responsibility to complete the frontend as well as backend for the "Career Page". The UI Designer has provided you with the Desktop version of the UI ("Career Page.png") and required graphic assets for reference which will help you replicate the desired end product ("UI" folder of this repository).
 
-The UI consists of a dropdown menu as well as a static side bar with individual behaviors for "on click" events, which has been tried to be represented by the UI Screens provided.
 
 ## Key Points for evaluation- 
 1.	The UI does not require any specific technology to be used, the developer is given freedom to use any technology/libraries/frameworks with which he/she is comfortable. Even implementation with plain HTML, CSS, JS will be accepted.  
