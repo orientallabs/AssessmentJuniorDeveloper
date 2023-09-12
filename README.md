@@ -5,7 +5,7 @@ _Frontend Developer - Labkafe_
 ## Problem Statement-
 Labkafe’s web development team has been working on a new "Career Page". The lead designer suggested to redesign and restructure the existing page from scratch. 
 
-The backend team has been working on the ContactUs API which helps the end user to fill forms throughout the website and collect form data as efficiently as possible. You have been given the responsibility to complete the frontend as well as backend for the "Career Page". The UI Designer has provided you with the Desktop version of the UI ("Career Page.png") and required graphic assets for reference which will help you replicate the desired end product ("UI" folder of this repository).
+The backend team has been working on the ContactUs API which helps the end user to fill forms throughout the website and collect form data as efficiently as possible. You have been given the responsibility to complete the frontend as well as backend(optional) for the "Career Page". The UI Designer has provided you with the Desktop version of the UI ("Career Page.png") and required graphic assets for reference which will help you replicate the desired end product ("UI" folder of this repository).
 
 
 ## Key Points for evaluation- 
